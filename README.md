@@ -43,6 +43,7 @@ This project is built with:
 - **JavaScript (ES6)** - For fetching and displaying data dynamically.  
 - **GNews API / NewsAPI** - To retrieve live news data.  
  
+*OUTPUT*
 
-
+![Image](https://github.com/user-attachments/assets/ec802070-3ca4-4b61-9737-665572a3b767)
 
